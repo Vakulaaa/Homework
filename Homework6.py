@@ -5,3 +5,4 @@ for i in my_list:
         my_list.remove(i)
         my_list.append(0)
 print(my_list)
+
