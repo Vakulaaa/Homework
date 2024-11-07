@@ -8,6 +8,6 @@ def my_func(n):
     return n
 
 
-user_input = int(input("Введіть ціле число: "))
+user_input = int(input("Write your number: "))
 result = my_func(user_input)
-print("Результат:", result)
+print("Result: ", result)
